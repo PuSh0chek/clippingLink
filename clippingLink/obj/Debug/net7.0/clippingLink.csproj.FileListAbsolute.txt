@@ -32,3 +32,37 @@ E:\Рабочие проекты\clippingLink\clippingLink\obj\Debug\net7.0\refi
 E:\Рабочие проекты\clippingLink\clippingLink\obj\Debug\net7.0\clippingLink.pdb
 E:\Рабочие проекты\clippingLink\clippingLink\obj\Debug\net7.0\clippingLink.genruntimeconfig.cache
 E:\Рабочие проекты\clippingLink\clippingLink\obj\Debug\net7.0\ref\clippingLink.dll
+E:\GitHub\clippingLink\clippingLink\bin\Debug\net7.0\clippingLink.exe
+E:\GitHub\clippingLink\clippingLink\bin\Debug\net7.0\clippingLink.deps.json
+E:\GitHub\clippingLink\clippingLink\bin\Debug\net7.0\clippingLink.runtimeconfig.json
+E:\GitHub\clippingLink\clippingLink\bin\Debug\net7.0\clippingLink.dll
+E:\GitHub\clippingLink\clippingLink\bin\Debug\net7.0\clippingLink.pdb
+E:\GitHub\clippingLink\clippingLink\bin\Debug\net7.0\EPPlus.dll
+E:\GitHub\clippingLink\clippingLink\bin\Debug\net7.0\EPPlus.Interfaces.dll
+E:\GitHub\clippingLink\clippingLink\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+E:\GitHub\clippingLink\clippingLink\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+E:\GitHub\clippingLink\clippingLink\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\GitHub\clippingLink\clippingLink\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\GitHub\clippingLink\clippingLink\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+E:\GitHub\clippingLink\clippingLink\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\GitHub\clippingLink\clippingLink\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\GitHub\clippingLink\clippingLink\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\GitHub\clippingLink\clippingLink\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+E:\GitHub\clippingLink\clippingLink\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\GitHub\clippingLink\clippingLink\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\GitHub\clippingLink\clippingLink\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\GitHub\clippingLink\clippingLink\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\GitHub\clippingLink\clippingLink\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\GitHub\clippingLink\clippingLink\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\GitHub\clippingLink\clippingLink\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\GitHub\clippingLink\clippingLink\obj\Debug\net7.0\clippingLink.csproj.AssemblyReference.cache
+E:\GitHub\clippingLink\clippingLink\obj\Debug\net7.0\clippingLink.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\clippingLink\clippingLink\obj\Debug\net7.0\clippingLink.AssemblyInfoInputs.cache
+E:\GitHub\clippingLink\clippingLink\obj\Debug\net7.0\clippingLink.AssemblyInfo.cs
+E:\GitHub\clippingLink\clippingLink\obj\Debug\net7.0\clippingLink.csproj.CoreCompileInputs.cache
+E:\GitHub\clippingLink\clippingLink\obj\Debug\net7.0\clippingLink.csproj.CopyComplete
+E:\GitHub\clippingLink\clippingLink\obj\Debug\net7.0\clippingLink.dll
+E:\GitHub\clippingLink\clippingLink\obj\Debug\net7.0\refint\clippingLink.dll
+E:\GitHub\clippingLink\clippingLink\obj\Debug\net7.0\clippingLink.pdb
+E:\GitHub\clippingLink\clippingLink\obj\Debug\net7.0\clippingLink.genruntimeconfig.cache
+E:\GitHub\clippingLink\clippingLink\obj\Debug\net7.0\ref\clippingLink.dll

@@ -10,7 +10,6 @@ using System.Data.SqlClient;
 using System.ComponentModel;
 using clippingLink;
 using System.Net;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace clippingLink;
 class Program 
@@ -23,6 +22,7 @@ class Program
     {
         Data data = new Data();
         string filePath = $"{Environment.CurrentDirectory}\\document.xlsx";
+        ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
         FileInfo file = new(filePath);
         using (ExcelPackage package = new(file))
         {
@@ -37,7 +37,6 @@ class Program
                 for (int col = 1; col <= colCount; col += 6)
                 {
                     data.LogLink = (string?)workSheet.Cells[row, 5].Value;
-                    Console.Write(data.LogLink);
                     data.ShortLink = (GetData(data.LogLink)).ToString();
                 }
             }
